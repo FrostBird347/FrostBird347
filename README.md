@@ -1,4 +1,8 @@
-I have no idea what to put here.
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://frostbird347.bitbucket.io/db/IdpxRMLLZ6Z52zB3DD1i9rw3cgUe5sQZGgboC0rXqbC4FM8Q6o7kMlsrPsv9A0vN9cgqYZD9Xgsy4vOJ1bhwP1vQeKDY1XSAHjEX2qLfG5bjg2CDHydqGwCFiGat8/GithubProfile.svg">
+	<source media="(prefers-color-scheme: light)" srcset="https://frostbird347.bitbucket.io/db/IdpxRMLLZ6Z52zB3DD1i9rw3cgUe5sQZGgboC0rXqbC4FM8Q6o7kMlsrPsv9A0vN9cgqYZD9Xgsy4vOJ1bhwP1vQeKDY1XSAHjEX2qLfG5bjg2CDHydqGwCFiGat8/GithubProfileLight.svg">
+	<img/>
+</picture>
 
 ## Languages
 
@@ -18,12 +22,6 @@ I have no idea what to put here.
 
 ## Public Statistics
 
-![Metrics](https://metrics.lecoq.io/FrostBird347?template=classic&base.indepth=true&base.activity=0&base.community=0&followup=1&achievements=1&gists=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&languages=false&languages.limit=8&languages.threshold=5%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.recent.load=0&languages.recent.days=0&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=stargazer%2C%20follower%2C%20influencer%2C%20inspirer&gists=false&config.timezone=Antarctica%2FSouth_Poleconfig.display=large)
-
-## Something Else
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://frostbird347.bitbucket.io/db/IdpxRMLLZ6Z52zB3DD1i9rw3cgUe5sQZGgboC0rXqbC4FM8Q6o7kMlsrPsv9A0vN9cgqYZD9Xgsy4vOJ1bhwP1vQeKDY1XSAHjEX2qLfG5bjg2CDHydqGwCFiGat8/GithubProfile.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://frostbird347.bitbucket.io/db/IdpxRMLLZ6Z52zB3DD1i9rw3cgUe5sQZGgboC0rXqbC4FM8Q6o7kMlsrPsv9A0vN9cgqYZD9Xgsy4vOJ1bhwP1vQeKDY1XSAHjEX2qLfG5bjg2CDHydqGwCFiGat8/GithubProfileLight.svg">
-  <img/>
+	<img src="https://metrics.lecoq.io/FrostBird347?template=classic&base.indepth=true&base.activity=0&base.community=0&followup=1&achievements=1&gists=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&languages=false&languages.limit=8&languages.threshold=5%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.recent.load=0&languages.recent.days=0&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=stargazer%2C%20follower%2C%20influencer%2C%20inspirer&gists=false&config.timezone=Antarctica%2FSouth_Poleconfig.display=large"/>
 </picture>
