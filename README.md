@@ -22,4 +22,4 @@ I have no idea what to put here.
 
 ## Something Else
 
-![](https://frostbird347.bitbucket.io/db/IdpxRMLLZ6Z52zB3DD1i9rw3cgUe5sQZGgboC0rXqbC4FM8Q6o7kMlsrPsv9A0vN9cgqYZD9Xgsy4vOJ1bhwP1vQeKDY1XSAHjEX2qLfG5bjg2CDHydqGwCFiGat8/GithubProfile.svg/)
+![](https://frostbird347.bitbucket.io/db/IdpxRMLLZ6Z52zB3DD1i9rw3cgUe5sQZGgboC0rXqbC4FM8Q6o7kMlsrPsv9A0vN9cgqYZD9Xgsy4vOJ1bhwP1vQeKDY1XSAHjEX2qLfG5bjg2CDHydqGwCFiGat8/GithubProfile.svg/#gh-dark-mode-only)![](https://frostbird347.bitbucket.io/db/IdpxRMLLZ6Z52zB3DD1i9rw3cgUe5sQZGgboC0rXqbC4FM8Q6o7kMlsrPsv9A0vN9cgqYZD9Xgsy4vOJ1bhwP1vQeKDY1XSAHjEX2qLfG5bjg2CDHydqGwCFiGat8/GithubProfileLight.svg/#gh-light-mode-only)
