@@ -12,10 +12,11 @@
  - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 	 - ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 	 - ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=flat&logo=Unity&logoColor=black)
+	 - ![Godot](https://img.shields.io/badge/Godot-478CBF.svg?style=flat&logo=Godot%20Engine&logoColor=white)
  - ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
  	 - ![Bash](https://img.shields.io/badge/Bash_3.2-121011?style=flat&logo=gnu-bash&logoColor=white)
  - ![Others](https://img.shields.io/badge/Others-75C1FF?style=for-the-badge)
  	 - ![AppleScript](https://img.shields.io/badge/AppleScript-323232?style=flat&logo=apple&logoColor=white)
      - ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=C&logoColor=black)
-     - ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white) <sup>(Limited experience)</sup>
-     - ![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=flat&logo=Swift&logoColor=white) <sup>(Limited experience)</sup>
+     - ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white) <sup>(Very limited experience)</sup>
+     - ![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=flat&logo=Swift&logoColor=white) <sup>(Very limited experience)</sup>
